@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Gillian and I'm a Developer Junior, from France</h2>
+<h2 align="center">Hi 👋! My name is Gillian and I'm a Dev' Junior, from France</h2>
 
 ###
 
