@@ -20,7 +20,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gillianlevert&" alt="gillianlevert" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GillianLEVERT&layout=compact)](https://github.com/GillianLEVERT/github-readme-stats)
-![Gillian's GitHub stats](https://github-readme-stats.vercel.app/api?username=GillianLEVERT&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GillianLEVERT&layout=compact&theme=merko)](https://github.com/GillianLEVERT/github-readme-stats)
+![Gillian's GitHub stats](https://github-readme-stats.vercel.app/api?username=GillianLEVERT&show_icons=true&theme=merko)
 
 
