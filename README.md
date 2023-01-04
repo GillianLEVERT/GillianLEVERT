@@ -32,18 +32,17 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
+<div>
+  
 <img src="https://raw.githubusercontent.com/Gillian/Gillian/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/sr33t54njz4u1g3sj2mgfggw1">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=4&unique=false" alt="Spotify recently played"  />
-  </a>
+  
 </div>
 
-###
+
+<div align="center">
+  
+ <a href="">![ALT](https://spotify-recently-played-readme.vercel.app/api?user=sr33t54njz4u1g3sj2mgfggw1)</a>
+
+</div>
+
