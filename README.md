@@ -33,11 +33,11 @@
 </div>
 
 
-<div>
+
   
-<img src="https://raw.githubusercontent.com/GillianLEVERT/GillianLEVERT/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/{{GillianLEVERT}}/{{GillianLEVERT}}/blob/output/github-contribution-grid-snake.svg)
   
-</div>
+
 
 
 <div align="center">
