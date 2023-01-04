@@ -35,7 +35,7 @@
 
 <div>
   
-<img src="https://raw.githubusercontent.com/Gillian/Gillian/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/GillianLEVERT/GillianLEVERT/blob/output/snake.svg" alt="Snake animation" />
   
 </div>
 
